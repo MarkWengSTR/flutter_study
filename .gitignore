@@ -31,6 +31,8 @@
 .pub/
 /build/
 
+__Flutter_Output__
+
 # Web related
 lib/generated_plugin_registrant.dart
 
